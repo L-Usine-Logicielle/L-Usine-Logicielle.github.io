@@ -4,7 +4,6 @@ title:      "Moodle Grades Scraper"
 date:       2023-06-14 12:00:00
 author:     "L'Usine Logicielle"
 header-img: "img/post-bg-2015.jpg"
-catalog: false
 tags:
     - Python
     - Docker
