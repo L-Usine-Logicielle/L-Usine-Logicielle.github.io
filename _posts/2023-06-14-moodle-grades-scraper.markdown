@@ -8,7 +8,6 @@ tags:
     - Python
     - Docker
     - MariaDB
-
 ---
 
 The Moodle Grades Scraper project is a collaborative initiative between me and my classmate Lucas Perfeito. Using web scraping on our school’s Moodle website, we’ve set up an alert system, via Discord or by e-mail, to inform our classmates when a new note is added or modified. The script used for this project is hosted on our own servers.
