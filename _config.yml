@@ -88,6 +88,6 @@ page-mathjax: false
 friends:
   [
     { title: "Andréa Joly", href: "https://andrea-joly.fr/" },
-    { title: "Lucas Perfeito"},
-    { title: "Antoine Marcoux"},
+    { title: "Lucas Perfeito", href: "#" },
+    { title: "Antoine Marcoux", href: "#" },
   ]
