@@ -1,22 +1,22 @@
 ---
 layout: page
-title: "À Propos"
+title: "À propos de L'Usine Logicielle"
 description: ""
-header-img: "img/bg-me-2022.jpg"
+header-img: "img/bg-little-universe.jpg"
 header-mask: 0.3
 multilingual: true
 ---
 
 {% include multilingual-sel.html %}
 
-<!-- Chinese Version -->
-<div class="zh post-container">
+<!-- English Version -->
+<div class="en post-container">
     {% capture about_en %}{% include about/en.md %}{% endcapture %}
     {{ about_en | markdownify }}
 </div>
 
-<!-- English Version -->
-<div class="en post-container">
+<!-- French Version -->
+<div class="fr post-container">
     {% capture about_fr %}{% include about/fr.md %}{% endcapture %}
     {{ about_fr | markdownify }}
 </div>
