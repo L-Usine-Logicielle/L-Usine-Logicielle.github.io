@@ -7,12 +7,6 @@ header-mask: 0.3
 multilingual: true
 ---
 
-<!-- English Version -->
-<div class="en post-container">
-    {% capture about_en %}{% include about/en.md %}{% endcapture %}
-    {{ about_en | markdownify }}
-</div>
-
 <!-- French Version -->
 <div class="fr post-container">
     {% capture about_fr %}{% include about/fr.md %}{% endcapture %}
