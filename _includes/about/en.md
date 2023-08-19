@@ -1,1 +1,0 @@
-Association which aims to develop, promote, support software development and contribute to the world of free software.
