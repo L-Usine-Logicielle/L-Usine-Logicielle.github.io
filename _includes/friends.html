@@ -2,7 +2,11 @@
 <h5>Membres</h5>
 <ul class="list-inline">
   {% for friend in site.friends %}
-  <li><a href="{{friend.href}}" target="_blank" rel="noopener noreferrer nofollow">{{friend.title}}</a></li>
+    {% if friend.href != "#" %}
+    <li><a href="{{friend.href}}" target="_blank" rel="noopener noreferrer nofollow">{{friend.title}}</a></li>
+    {% else %}
+    <li><a href="{{friend.href}}" rel="noopener noreferrer nofollow">{{friend.title}}</a></li>
+    {% endif %}
   {% endfor %}
 </ul>
 {% endif %}
