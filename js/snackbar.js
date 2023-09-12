@@ -10,13 +10,6 @@ var createSnackbar = (function() {
   // Any snackbar that is already shown
   var previous = null;
   
-/*
-<div class="paper-snackbar">
-  <button class="action">Dismiss</button>
-  This is a longer message that won't fit on one line. It is, inevitably, quite a boring thing. Hopefully it is still useful.
-</div>
-*/
-  
   return function(config) {
     var message = config.message,
       actionText = config.actionText,
