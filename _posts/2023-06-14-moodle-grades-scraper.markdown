@@ -8,9 +8,6 @@ hidden: false
 subtitle: "Système de notifications pour Moodle"
 intro: "Le projet Moodle Grades Scraper est une initiative collaborative entre deux camarades. L'objectif est, initialement, en utilisant le web scraping, de notifier les élèves de la classe lors de l'ajout d'une nouvelle note sur le site de l'école."
 tags:
-    - Python
-    - Docker
-    - MariaDB
 ---
 
 ## Historique & Objectifs 
