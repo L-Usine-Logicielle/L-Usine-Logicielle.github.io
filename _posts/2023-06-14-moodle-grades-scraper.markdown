@@ -3,16 +3,16 @@ layout:     post
 title:      "Moodle Grades Scraper"
 date:       2023-06-14 12:00:00
 author:     "L'Usine Logicielle"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/photo-terre-iot.png"
 hidden: false
 subtitle: "Système de notifications pour Moodle"
-intro: "Le projet Moodle Grades Scraper est une initiative collaborative entre deux camarades. L'objectif est, initialement, en utilisant le web scraping, de notifier les élèves de la classe lors de l'ajout d'une nouvelle note sur le site de l'école."
+intro: "Le projet Moodle Grades Scraper est une initiative collaborative entre deux camarades. L'objectif est, en utilisant le web scraping, de notifier les élèves d'une classe lors de l'ajout d'une nouvelle note sur un site Moodle."
 tags:
 ---
 
 ## Historique & Objectifs 
 
-Le projet **Moodle Grades Scraper** est une initiative collaborative entre deux camarades. L'objectif est, initialement, en utilisant le web scraping, de notifier les élèves de la classe lors de l'ajout d'une nouvelle note sur le site de l'école. 
+Le projet **Moodle Grades Scraper** est une initiative collaborative entre deux camarades. L'objectif est, en utilisant le web scraping, de notifier les élèves d'une classe lors de l'ajout d'une nouvelle note sur un site Moodle. 
 
 
 ## Fonctionnalités
