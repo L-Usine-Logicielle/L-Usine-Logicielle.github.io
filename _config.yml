@@ -5,7 +5,7 @@ header-img: img/post-bg-universe.jpg
 email: administateur@lusine-logicielle.fr
 description: "Des lignes libres pour un monde ouvert !"
 keyword: "L'Usine Logicielle"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://lusine-logicielle.fr/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -66,8 +66,8 @@ netease_comment: false
 
 
 # Sidebar settings
-sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar: false # whether or not using Sidebar.
+sidebar-about-description: "L'Usine Logicielle"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -81,10 +81,12 @@ service-worker: true
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
 
+
+#    { title: "Andréa Joly", href: "https://andrea-joly.fr/" },
+#    { title: "Lucas Perfeito", href: "#" },
+
 # Friends
 friends:
   [
-    { title: "Andréa Joly", href: "https://andrea-joly.fr/" },
-    { title: "Lucas Perfeito", href: "#" },
     { title: "Antoine Marcoux", href: "#" },
   ]
