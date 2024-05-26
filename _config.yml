@@ -82,12 +82,13 @@ service-worker: true
 page-mathjax: false
 
 
-#    { title: "Andréa Joly", href: "https://andrea-joly.fr/" },
-#    { title: "Lucas Perfeito", href: "#" },
-#   { title: "Antoine Marcoux", href: "#" },
+
 
 
 # Friends
-friends:
-  [
-  ]
+#friends:
+#  [
+#    { title: "Andréa Joly", href: "https://andrea-joly.fr/" },
+#    { title: "Lucas Perfeito", href: "#" },
+#    { title: "Antoine Marcoux", href: "#" },
+#  ]
