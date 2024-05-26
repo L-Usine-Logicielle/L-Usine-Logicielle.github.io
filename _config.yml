@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-github_username: L-Usine-Logicielle
+#github_username: L-Usine-Logicielle
 linkedin_username: lusine-logicielle
 
 # Build settings
